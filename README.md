@@ -1,52 +1,33 @@
-# Kodluyoruz - FrontEnd 101 Eğitimi
+# Kodluyoruz - İlk Repo
 
 > Mustafa CAN
-> > [LinkedIn](https://www.linkedin.com/in/mustafa-can-32959917a/) ) 
+> > [LinkedIn](https://www.linkedin.com/in/mustafa-can-32959917a/)  
 
-## Eğitimin Genel Hedefi:
-* Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
-* roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
-* JavaScript’e geçmeden önce HTML, CSS ve Bootstrap gibi temel yapıları kullanabilmelerini sağlamak
-* Text Editör hakimiyetlerini kazandırmak
-* JavaScript temellerini aktarıp herhangi bir Front-End kütüphanesi kullanmadan başlangıç düzeyindeki projeleri hayata geçirebilmelerini sağlamak
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-## Eğitim Kategorileri:
-- Eğitime Başlarken
-- Yol Haritası
-- Kurulum ve Genel Ayarlar
-- Visual Studio Code Kullanımı
-- HTML Temelleri
-- CSS Temelleri
-- Bootstrap Temelleri
-- GIT ve GitHub
-- Javascript
+![github](figures/github.png)
 
-## Kullanılan VS Code Eklentileri:
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+## Installation
 
-## Sık Kullanılan Markdown İşaretlemeleri
-- [Tutorial](https://commonmark.org/help/tutorial/index.html)
-- [Doküman](https://commonmark.org/help/)
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
+```bash
+git clone https://github.com/mustafa130501/kodluyoruzilkrepo.git
 ```
-# Başlık 1
-## Başlık 2.. 
 
-*italic* 
-**bold**
-***boldItalic***
+## Usage
 
-- Liste Elemanı
-- Liste Elemanı
-- Liste Elemanı
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-Link:
-[Yazi](url)
-[Kodluyoruz](https://www.kodluyoruz.org/)
-
-Image/Gorsel:
-![Aciklama Bilgisi](url)
-![Lorem Picsum](https://picsum.photos/200/300)
-
+Linux için:
+```linux
+cd kodluyoruzilkrepo
+code .
 ```
+
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
